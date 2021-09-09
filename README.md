@@ -8,7 +8,7 @@
 
 - 🌱 Estoy aprendiendo actualmente: **<b> Programación Reactiva con WebFlux / RxJava </b>**
 
-- 👯 Estoy buscando poder generar mas conocimientos en **<b> Java - Spring Boot con Azure / AWS </b>**
+- 👯 Estoy buscando poder generar mas conocimientos en **<b> Java - Spring Boot - Microservicios con Azure / AWS </b>**
 
 - 💬 Puedes preguntarme si tienes dudas sobre **Javascript, SAPUI5 y Java**
 
@@ -61,12 +61,20 @@
   <img align="center" alt="yeoman" height="45" width="45" src="https://yeoman.io/static/tool-yo.4ed95cac73.png">
   <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="bitbucket" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" alt="vscode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img align="center" alt="intellij" width="45" height="45" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
   <img align="center" alt="swagger" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
-  <img align="center" alt="mybatis" width="45" height="45" src="https://i.pinimg.com/originals/0b/11/2c/0b112c6a99631dd3bd98fa9fc91f51f1.png"/>
-  
+  <img align="center" alt="mybatis" width="45" height="45" src="https://plugins.jetbrains.com/files/10065/92767/icon/pluginIcon.png"/>
  </div>
 
 ### <h2 align="center">
+
+<div>
+    <a href="https://github.com/hiddro">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiddro&show_icons=true&theme=onedark &include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&layout=compact&langs_count=7&theme=onedark " />
+</div>
+
+
