@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://giphy.com/stickers/hello-hi-greetings-ymwg2hvAKuuuiDN1x3/giphy.gif" width="30px"> Bienvenidos, soy Edu </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/IblZiTbdRjV6lMEapl/giphy.gif" width="30px"> Bienvenidos, soy Edu </h3>
 
 <h3 align="center">Fullstack Developer 👨‍💻</h3>
 
