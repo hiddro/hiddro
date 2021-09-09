@@ -1,18 +1,17 @@
-<h3 align="center"><img src="https://media.giphy.com/media/IblZiTbdRjV6lMEapl/giphy.gif" width="30px"> Bienvenidos, soy Edu </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/IblZiTbdRjV6lMEapl/giphy.gif" width="30px"> Bienvenidos, Soy Edu </h3>
 
-<h3 align="center">Fullstack Developer 👨‍💻</h3>
+<h3 align="center">Desarrollador Java / SAP SCP 👨‍💻</h3>
 
-<!--
-**hiddro/hiddro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h2 align="center"> 
 
-Here are some ideas to get you started:
+- 🔭 Estoy trabajando actualmente en **Everis NTT Data**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo actualmente: **<b> Programación Reactiva con WebFlux / RxJava </b>**
+
+- 👯 Estoy buscando poder generar mas conocimientos en **<b> Java - Spring Boot con Azure / AWS </b>**
+
+- 💬 Puedes preguntarme si tienes dudas sobre **Javascript, SAPUI5 y Java**
+
+- 😄 A continuación detallare mis **Skills**
+
+### <h2 align="center">
