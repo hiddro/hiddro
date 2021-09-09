@@ -1,4 +1,6 @@
-###                                                        Hi there 👋
+<h3 align="center"><img src="https://giphy.com/gifs/SS8ZlHa3ZA3ZaI71JG/giphy.gif" width="30px"> Bienvenidos </h3>
+
+<h3 align="center">Fullstack Developer 👨‍💻</h3>
 
 <!--
 **hiddro/hiddro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
