@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/IblZiTbdRjV6lMEapl/giphy.gif" width="30px"> Bienvenidos, Soy Edu </h3>
 
-<h3 align="center">Desarrollador Java / SAP SCP 👨‍💻</h3>
+<h3 align="center">Desarrollador Java / SAP SCP</h3>
 
 ### <h2 align="center"> 
 
@@ -15,3 +15,8 @@
 - 😄 A continuación detallare mis **Skills**
 
 ### <h2 align="center">
+
+ ### <h2 align="center">
+ <h3 align="left"> SKILLS </h3>
+
+  ### <h2 align="center">
