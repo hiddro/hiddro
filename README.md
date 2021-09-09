@@ -48,6 +48,7 @@
   <img align="center" alt="mysql" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">                             
   <img align="center" alt="pgadmin" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">              
   <img align="center" alt="apache" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
+  <img align="center" alt="s4hana" height="45" width="100" src="https://blogs.sap.com/wp-content/uploads/2016/01/logo_s4_jpg_877119.png"> 
  </div>
 
  ### 🛠️ Tools
@@ -56,8 +57,9 @@
   <img align="center" alt="npm" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="aws" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="azure" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="scp" height="45" width="45" src="https://www.nl4b.com/wp-content/uploads/2020/09/SCP-300x160.png">
-  
+  <img align="center" alt="scp" height="45" width="45" src="https://icon-library.com/images/sap-icon/sap-icon-17.jpg">
+  <img align="center" alt="dbeaver" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png">
+  <img align="center" alt="yeoman" height="45" width="45" src="https://yeoman.io/static/tool-yo.4ed95cac73.png">
   <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="vscode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
