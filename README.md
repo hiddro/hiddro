@@ -16,6 +16,27 @@
 
 ### <h2 align="center">
 
+<div> <br> 
+  <a href="https://www.linkedin.com/in/edwardcca/" target="_blank">
+   <img src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.facebook.com/edwardandres.cordovachavez/" target="_blank">
+   <img src="https://img.shields.io/badge/Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>
+ <a href="https://github.com/hiddro" target="_blank">
+  <img src="https://img.shields.io/badge/Github-7289DA?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:edd.ckalb@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://wa.me/+51983478763" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:edwardandres.cordovachavez@everis.nttdata.com" target="_blank">
+   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+</div>
+
 ### <h2 align="center">
 <h3 align="left"> SKILLS </h3>
 
@@ -66,7 +87,7 @@
   <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img align="center" alt="intellij" width="45" height="45" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
   <img align="center" alt="swagger" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
-  <img align="center" alt="mybatis" width="45" height="45" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99D808505BBF3D4417"/>
+  <img align="center" alt="mybatis" width="45" height="45" src="https://plugins.jetbrains.com/files/10065/92767/icon/pluginIcon.png"/>
  </div>
 
 ### <h2 align="center">
