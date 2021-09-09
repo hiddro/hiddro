@@ -48,7 +48,6 @@
   <img align="center" alt="mysql" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">                             
   <img align="center" alt="pgadmin" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">              
   <img align="center" alt="apache" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
-  <img align="center" alt="s4hana" height="45" width="100" src="https://blogs.sap.com/wp-content/uploads/2016/01/logo_s4_jpg_877119.png"> 
  </div>
 
  ### 🛠️ Tools
@@ -65,6 +64,8 @@
   <img align="center" alt="vscode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img align="center" alt="intellij" width="45" height="45" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
+  <img align="center" alt="swagger" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
+  <img align="center" alt="mybatis" width="45" height="45" src="https://i.pinimg.com/originals/0b/11/2c/0b112c6a99631dd3bd98fa9fc91f51f1.png"/>
   
  </div>
 
