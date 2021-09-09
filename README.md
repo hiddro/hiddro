@@ -66,7 +66,7 @@
   <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img align="center" alt="intellij" width="45" height="45" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
   <img align="center" alt="swagger" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
-  <img align="center" alt="mybatis" width="45" height="45" src="https://plugins.jetbrains.com/files/10065/92767/icon/pluginIcon.png"/>
+  <img align="center" alt="mybatis" width="45" height="45" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99D808505BBF3D4417"/>
  </div>
 
 ### <h2 align="center">
