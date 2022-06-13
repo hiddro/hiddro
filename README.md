@@ -87,7 +87,7 @@
     <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
     <img align="center" alt="dbeaver" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png">
     <img align="center" alt="bitbucket" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-    <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="github" height="45" width="45" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
   </div>
 
 ### <h2 align="center">
