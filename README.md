@@ -53,8 +53,8 @@
   <img align="center" alt="css3" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ui5" height="45" width="60" src="https://raw.githubusercontent.com/SAP/ui5-tooling/master/docs/images/UI5_logo_wide.png">
-  <img align="center" alt="jquery" height="45" width="60" src="https://anthoncode.com/wp-content/uploads/2019/01/jquery-logo-png.png">
+  <img align="center" alt="ui5" height="45" width="90" src="https://raw.githubusercontent.com/SAP/ui5-tooling/master/docs/images/UI5_logo_wide.png">
+  <img align="center" alt="jquery" height="45" width="90" src="https://anthoncode.com/wp-content/uploads/2019/01/jquery-logo-png.png">
   <img align="center" alt="bootstrap" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="foundation" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/foundation/foundation-original.svg">
 </div>
@@ -70,23 +70,25 @@
 
  ### 🛠️ Tools
  <div style="display: inline_block"> <br> 
-  <img align="center" alt="docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="npm" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="aws" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="kubernetes" height="45" width="90" src="https://img2.freepng.es/20181120/ks/kisspng-logo-kubernetes-docker-computer-software-transpare-5bf46b1fd40286.0348310715427448638684.jpg">
   <img align="center" alt="azure" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="scp" height="45" width="45" src="https://icon-library.com/images/sap-icon/sap-icon-17.jpg">
-  <img align="center" alt="dbeaver" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png">
+  <img align="center" alt="scp" height="45" width="90" src="https://www.shopolog.ru/s/img/services/7f/7f/800x400_7f7f7755128a77a35c64e37b84887f4d___jpg____4_fb680067.png">
+  <img align="center" alt="npm" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="yeoman" height="45" width="45" src="https://yeoman.io/static/tool-yo.4ed95cac73.png">
-  <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="bitbucket" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" alt="vscode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <img align="center" alt="intellij" width="45" height="45" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
-  <img align="center" alt="swagger" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
-  <img align="center" alt="mybatis" width="45" height="45" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99D808505BBF3D4417"/>
-  <img align="center" alt="maven" width="45" height="45" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/maven-logo-black-on-white.png?ssl=1"/>
+  <img align="center" alt="git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  </div>
+  <div style="display: inline_block"> <br> 
+    <img align="center" alt="intellij" width="45" height="45" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"/>
+    <img align="center" alt="swagger" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>
+    <img align="center" alt="mybatis" width="45" height="45" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99D808505BBF3D4417"/>
+    <img align="center" alt="maven" width="45" height="45" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/maven-logo-black-on-white.png?ssl=1"/>
+    <img align="center" alt="postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+    <img align="center" alt="dbeaver" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png">
+    <img align="center" alt="bitbucket" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
+    <img align="center" alt="github" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </div>
 
 ### <h2 align="center">
 
