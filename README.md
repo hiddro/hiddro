@@ -6,7 +6,7 @@
 
 - 🔭 Estoy trabajando actualmente en **Everis NTT Data**
 
-- 🌱 Estoy desarrollando actualmente: **<b> Programación Reactiva con WebFlux </b>**
+- 🌱 Estoy desarrollando actualmente: **<b> Microservicios con WebFlux(Programación Reactiva) </b>**
 
 - 👯 Estoy buscando poder generar mas conocimientos en **<b> Java - Spring Boot - Microservicios con Azure / AWS </b>**
 
