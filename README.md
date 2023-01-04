@@ -4,7 +4,7 @@
 
 ### <h2 align="center"> 
 
-- 🔭 Estoy trabajando actualmente en **Everis NTT Data**
+- 🔭 Estoy trabajando actualmente en **INDRA**
 
 - 🌱 Estoy desarrollando actualmente: **<b> Microservicios con WebFlux(Programación Reactiva) </b>**
 
