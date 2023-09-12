@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="30px"> Bienvenidos, Soy Edu </h3>
 
-<h3 align="center">☕ Analista TI / Backend Developer Microservices</h3>
+<h3 align="center">☕ TI Analyst / Backend Developer Microservices / Backend Software Engineer</h3>
 
 ### <h2 align="center"> 
 
