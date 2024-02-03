@@ -93,10 +93,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 <div>
     <a href="https://github.com/hiddro">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiddro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiddro&theme=material-palenight" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&theme=material-palenight" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&layout=compact&langs_count=7&theme=material-palenight" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hiddro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hiddro&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=material-palenight" />
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiddro&theme=material-palenight" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&theme=material-palenight" />
+        
 </div>
 
 </br>
@@ -129,3 +130,5 @@
        alt="snake" /></a>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
