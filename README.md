@@ -94,8 +94,9 @@
 <div>
     <a href="https://github.com/hiddro">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiddro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&layout=compact&langs_count=7&theme=material-palenight" />
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiddro&theme=material-palenight" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&theme=material-palenight" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddro&layout=compact&langs_count=7&theme=material-palenight" />
 </div>
 
 </br>
@@ -122,5 +123,9 @@
   </a>
 
 </br>
-
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/hiddro/hiddro/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
