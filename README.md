@@ -53,8 +53,8 @@
 
   ### 🗄️ Database
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mysql.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mongodb.com/es)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/es)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redis"/>](https://redis.io/)
 
   ### ☁️ Cloud
@@ -62,29 +62,29 @@
    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/es-es/)
 
   ### 🛠️ Software and Tools
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kubernetes"/>](https://azure.microsoft.com/es-es/)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://azure.microsoft.com/es-es/)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://azure.microsoft.com/es-es/)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=jenkins"/>](https://github.com/features/actions)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kubernetes"/>](https://kubernetes.io/es/)
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://www.freecodecamp.org/espanol/news/la-guia-definitiva-de-linea-de-comandos-de-linux-tutorial-completo-de-bash/)
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
    
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=elasticsearch"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=idea"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=powershell"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=maven"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://azure.microsoft.com/es-es/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=elasticsearch"/>](https://www.elastic.co/es/elasticsearch)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/es-es/idea/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=powershell"/>](https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>](https://www.markdownguide.org/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=maven"/>](https://maven.apache.org/download.cgi)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/)
 
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://lh3.googleusercontent.com/pVi-pUHt8yMvWIUW_2eWws8m0MzLiZb170hNG8F9U0woGL-Hle58HQrYAcMgQqrnAuWHmApHpSuycjB1s1s"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.iconscout.com/icon/free/png-256/free-confluence-3521361-2944805.png"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>](https://azure.microsoft.com/es-es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://agmusiccenter.com/wp-content/uploads/2015/12/sonar-logo.png"/>](https://azure.microsoft.com/es-es/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://lh3.googleusercontent.com/pVi-pUHt8yMvWIUW_2eWws8m0MzLiZb170hNG8F9U0woGL-Hle58HQrYAcMgQqrnAuWHmApHpSuycjB1s1s"/>](https://www.confluent.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png"/>](https://dbeaver.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/product/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"/>](https://www.atlassian.com/software/jira)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.iconscout.com/icon/free/png-256/free-confluence-3521361-2944805.png"/>](https://www.atlassian.com/software/confluence)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>](https://swagger.io/docs/open-source-tools/swagger-editor/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://agmusiccenter.com/wp-content/uploads/2015/12/sonar-logo.png"/>](https://www.sonarsource.com/products/sonarcloud/)
 
 </p>
 
@@ -129,6 +129,10 @@
   <img  src="https://github.com/hiddro/hiddro/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
