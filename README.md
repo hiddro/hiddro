@@ -39,52 +39,58 @@
 <p align="center">
 
   ### ⚙️ Backend
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/es/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kafka"/>](https://kafka.apache.org/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com/es/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Spring Boot" src="https://skillicons.dev/icons?i=spring"/>](https://spring.io/projects/spring-boot/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Kafka / Kafka Streams" src="https://skillicons.dev/icons?i=kafka"/>](https://kafka.apache.org/)
 
   ### 💻 Frontend
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/cli/version)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=materialui"/>](https://material.angular.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Angular" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/cli/version)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Angular Material" src="https://skillicons.dev/icons?i=materialui"/>](https://material.angular.io/)
 
   ### 🗄️ Database
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/es)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redis"/>](https://redis.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/es)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Azure Cosmos DB" src="https://estuary.dev/static/afbdfac08fff3024d8ea80672915fb8d/321f9/Cosmos_DB_logo_4bdaaae2a9.png"/>](https://azure.microsoft.com/es-mx/products/cosmos-db)
 
   ### ☁️ Cloud
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=githubactions"/>](https://github.com/features/actions)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/es-es/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Github Actions" src="https://skillicons.dev/icons?i=githubactions"/>](https://github.com/features/actions)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Azure Cloud" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/es-es/)
+
+  ### 📀 O.S.
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Windows" src="https://skillicons.dev/icons?i=windows"/>](https://github.com/features/actions)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Ubuntu / Zorin OS" src="https://skillicons.dev/icons?i=ubuntu"/>](https://azure.microsoft.com/es-es/)
 
   ### 🛠️ Software and Tools
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kubernetes"/>](https://kubernetes.io/es/)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://www.freecodecamp.org/espanol/news/la-guia-definitiva-de-linea-de-comandos-de-linux-tutorial-completo-de-bash/)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>](https://kubernetes.io/es/)
+    [<img height="48px" width="48px" alt="Icone VS-Code" title="VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+    [<img height="48px" width="48px" alt="Icone VS-Code" title="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Bash" src="https://skillicons.dev/icons?i=bash"/>](https://www.freecodecamp.org/espanol/news/la-guia-definitiva-de-linea-de-comandos-de-linux-tutorial-completo-de-bash/)
+    [<img height="48px" width="48px" alt="Icone VS-Code" title="Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>](https://www.jenkins.io/)
    
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=elasticsearch"/>](https://www.elastic.co/es/elasticsearch)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/es-es/idea/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=powershell"/>](https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>](https://www.markdownguide.org/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=maven"/>](https://maven.apache.org/download.cgi)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="ELK Stack" src="https://skillicons.dev/icons?i=elasticsearch"/>](https://www.elastic.co/es/elasticsearch)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="IntelliJ" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/es-es/idea/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Shell" src="https://skillicons.dev/icons?i=powershell"/>](https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="MD" src="https://skillicons.dev/icons?i=md"/>](https://www.markdownguide.org/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Maven" src="https://skillicons.dev/icons?i=maven"/>](https://maven.apache.org/download.cgi)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/)
 
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://lh3.googleusercontent.com/pVi-pUHt8yMvWIUW_2eWws8m0MzLiZb170hNG8F9U0woGL-Hle58HQrYAcMgQqrnAuWHmApHpSuycjB1s1s"/>](https://www.confluent.io/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png"/>](https://dbeaver.io/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/product/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"/>](https://www.atlassian.com/software/jira)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.iconscout.com/icon/free/png-256/free-confluence-3521361-2944805.png"/>](https://www.atlassian.com/software/confluence)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>](https://swagger.io/docs/open-source-tools/swagger-editor/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://agmusiccenter.com/wp-content/uploads/2015/12/sonar-logo.png"/>](https://www.sonarsource.com/products/sonarcloud/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Confluent" src="https://lh3.googleusercontent.com/pVi-pUHt8yMvWIUW_2eWws8m0MzLiZb170hNG8F9U0woGL-Hle58HQrYAcMgQqrnAuWHmApHpSuycjB1s1s"/>](https://www.confluent.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="DBeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png"/>](https://dbeaver.io/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Bitbucket" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"/>](https://bitbucket.org/product/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Jira" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"/>](https://www.atlassian.com/software/jira)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Confluence" src="https://cdn.iconscout.com/icon/free/png-256/free-confluence-3521361-2944805.png"/>](https://www.atlassian.com/software/confluence)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="SwaggerHub" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>](https://swagger.io/docs/open-source-tools/swagger-editor/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" title="Sonarqube / SonarCloud" src="https://avatars.githubusercontent.com/ml/1581?s=140&v=4"/>](https://www.sonarsource.com/products/sonarcloud/)
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" title="Notion" src="https://skillicons.dev/icons?i=notion"/>](https://www.notion.so/es-es)
 
 </p>
 
